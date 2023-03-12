@@ -1,0 +1,216 @@
+/* media query 1199.5px */
+@media(max-width:1199.5px){
+  /* features css */
+  #feature .container .row .col-lg3{
+    width:25%;
+    margin-right: 15px;
+    margin-bottom: 15px;
+  }
+  /* ----Protfolio sections */
+  .protfolio-wrap {
+    width: 100%;
+    height: 100%;
+}
+/* pricing section */
+.xl {
+    width: 50%;
+    padding: 0px;
+}
+
+}
+/* media query 991.5px */
+@media(max-width:991.5px){
+    /* nav css */
+    .header .navbar-collapse{
+        padding:2rem;
+    }
+    .header .navbar-nav .nav-link{
+        padding: 6px 5px;
+        margin-bottom:10px;
+    }
+   /* client section css */
+   .counter {
+    margin-top: 30px;
+    
+}
+/* service section css */
+.servic-wrapper{
+    width:100%;
+    align-items: center;
+}
+.serviceSingle{
+    width: 325px;
+    margin: auto;
+    margin-bottom: 50px;
+}
+.serviceSingle p{
+    width: 94%;
+}
+/* -----more service section----- */
+.signleService{width:336px}
+.more-service-content{width:296px}
+
+/* -----Feature section */
+.singleFeature{width:31%}
+
+/* -----Protfolio section */
+.protfolio-wrap {
+    width: 335px;
+    height: 250px;
+}
+/* team section css */
+.team-member{margin-bottom:20px;}
+/* pricing section */
+.priceCard {
+    background: whitesmoke;
+    text-align: center;
+    padding: 30px 0px;
+    border-radius: 8px;
+    margin-bottom:20px
+}
+.xl {
+    width: 100%;
+    padding: 0px;
+}
+h5.questionText{
+    width: 100%;
+    margin-bottom: 20px;
+}
+.contact-message{
+    padding-top:20px
+}
+
+
+}
+
+
+/* media query 767px */
+@media(max-width:767px){
+    /* nav css */
+    body,html{
+        font-size:12px;
+    }
+    /* hero section */
+    .banner-wrapper{
+        min-height:550px;
+    }
+    /* client section */
+
+    .client-wrapper .client-single{
+        width:150px;
+    }
+    .client-single img{
+        width:80px;
+        margin: 15px;
+    }
+    .hero-text{
+        font-size:40px;
+        margin:20px 0px;
+    }
+
+    .row.client {
+        margin-top: 30px;
+    }
+    .counter {
+        margin-top: 30px;
+    }
+
+    /* service section css */
+.serviceSingle{
+    width:95%;
+    margin:auto;
+    margin-bottom: 30px;
+}
+.serviceSingle p{
+    width: 94%;
+}
+/* -----more service section----- */
+.signleService{width:96%}
+.more-service-content{width:92%}
+.more-service-content p{font-size: 14px;}
+
+/* -----Feature section */
+.singleFeature{width:100%}
+
+/* -----Protfolio section */
+.protfolio-wrap {
+    width: 100%;
+    height: auto;
+}
+.contact-info{
+    padding-top:20px;
+}
+
+
+}
+
+/* media query 590px */
+
+@media(max-width:590px){
+    section{
+        margin:0px 20px
+    }
+    /* nav css */
+    .header .navbar-nav .nav-link{
+        padding: 3px 5px;
+    }
+    body,html{font-size: 12px;}
+    .header .navbar-nav .nav-link{
+        padding: 6px 5px;
+    }
+    /* hero section */
+    .banner-wrapper{
+        margin-top:0px;
+        min-height:350px;
+    }
+    .hero-text{
+        font-size:30px;
+        margin-top:20px;
+    }
+    .hero-image{
+        width:80%;
+        margin:auto;
+        margin-top: 0px;
+    }
+    .main-btn0{text-align: center;}
+
+    /* -----more service section----- */
+.signleService{width:96%}
+.more-service-content{width:92%}
+.more-service-content p{font-size: 14px;}
+
+/* -----Feature section */
+.singleFeature{width:90%;margin:auto;margin-bottom:20px}
+
+.protfolio-wrap {
+    width: 100%;
+    height: 100%;
+}
+
+
+}
+/* media query 380px */
+@media(max-width:380px){
+    /* navbar */
+    .header .navbar-nav .nav-link{
+        padding: 3px 5px;
+    }
+    .main-btn0{text-align: center;}
+    /* hero section */
+    .hero-text{width: 90%;margin-left:20px;}
+    .hero-text2{width:70%;line-height: 20px;margin-left:20px;}
+
+  /* -----more service section----- */
+    .signleService{width:94%}
+    .more-service-content{width:86.5%}
+
+    /* -----Feature section */
+    .singleFeature{width:90%;margin:auto;margin-bottom:20px}
+    .protfolio-wrap {
+        width: 100%;
+        height: 100%;
+    }
+
+
+}
+
