@@ -433,7 +433,8 @@ h4.serviceText {
 
 /* -----Testimonial sectin css----- */
 #testimonial{
-    background:var(--hover-color)
+    background:var(--hover-color);
+    margin: auto;
 }
 .testimonial-wrap {
     width: 513px;
