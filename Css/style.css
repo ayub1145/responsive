@@ -146,13 +146,17 @@ section.wrapper {
     width:90%;
     height: 100%;
 }
+section.banner-wrapper.wrapper {
+    width: 100%;
+    margin: 0px;
+}
 /* Client section css */
 #client{
     width: 100%;
     background: var(--hover-color);
     padding:20px;
     display:block;
-
+    margin:0px;
 }
 .client-image {
     width: 110px;
@@ -332,18 +336,18 @@ h4.serviceText {
 /* ------more Services css------ */
 
 .more1{
-    background-image: url("../Images/more-services-1.jpg");
+    background-image: url("/Images/more-services-1.jpg");
 }
 .more2{
-    background-image: url("../Images/more-services-2.jpg");
+    background-image: url("/Images/more-services-2.jpg");
 
 }
 .more3{
-    background-image: url("../Images/more-services-3.jpg");
+    background-image: url("/Images/more-services-3.jpg");
 }
 .more4{
 
-    background-image: url("../Images/more-services-4.jpg");
+    background-image: url("/Images/more-services-4.jpg");
 
 }
 
