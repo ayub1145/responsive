@@ -332,18 +332,18 @@ h4.serviceText {
 /* ------more Services css------ */
 
 .more1{
-    background-image: url("/Images/more-services-1.jpg");
+    background-image: url("Images/more-services-1.jpg");
 }
 .more2{
-    background-image: url("/Images/more-services-2.jpg");
+    background-image: url("Images/more-services-2.jpg");
 
 }
 .more3{
-    background-image: url("/Images/more-services-3.jpg");
+    background-image: url("Images/more-services-3.jpg");
 }
 .more4{
 
-    background-image: url("/Images/more-services-4.jpg");
+    background-image: url("Images/more-services-4.jpg");
 
 }
 
